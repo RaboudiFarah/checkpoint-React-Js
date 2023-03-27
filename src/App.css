@@ -1,0 +1,22 @@
+.logo{
+  width:100px;
+  height: 100px;
+}
+#main-container {
+  place-items: center center;
+}
+
+#sign-up-form{
+  max-width: 330px;
+
+}
+#phrase{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  color: rgb(16, 16, 17);
+
+  background-color:rgb(241, 241, 245);
+  margin-top: 100px;
+  
+
+}
